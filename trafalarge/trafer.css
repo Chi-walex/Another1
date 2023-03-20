@@ -336,6 +336,7 @@ border-radius: 2em;
 .footer-two ul, .footer-three ul, .footer-four ul{
     list-style: none;
     font-size: 14px;
+    
 }
 .footer-two ul h4 a, .footer-three ul h4 a, .footer-four ul h4 a{
     color: white;
@@ -345,4 +346,5 @@ border-radius: 2em;
 }
 .footer-two ul li a, .footer-three ul li a, .footer-four ul li a{
     color: white;
+    text-decoration: none;
 }
